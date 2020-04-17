@@ -2,8 +2,8 @@
 TAU - worksapce
 
 Chrome Extension - TAU Workspace
-Project descriptionAn extension that will change your life. forever.
 
+Project descriptionAn extension that will change your life. forever.
 
 This extension improves your daily use in variety of Tel Aviv University websites.
 
