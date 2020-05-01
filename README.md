@@ -1,7 +1,8 @@
-# TAU---worksapce
-TAU - worksapce
+# Quick launch to website & Video controller
 
-Quick launch to website & Video controller
+Download: https://chrome.google.com/webstore/detail/cimpapocoihheccpjfhghpbhmiggmmgg/publish-accepted?authuser=1&hl=en
+
+# עברית
 תוסף שישנה את חייכם!
 
 מהיום זמין לכל הסטודנטים באוניברסיטת תל אביב !
@@ -18,7 +19,7 @@ Quick launch to website & Video controller
 
 בהמשך - נעדכן גרסה מתקדמת יותר שתתמוך בעוד פיצ'רים : ) 
 
-
+#English
 An extension that will change your life. forever.
 
 This extension improves your daily use in variety of Tel Aviv University websites.
@@ -38,10 +39,4 @@ also in :  - youtube ! - facebook ! - whatsapp ! - linkedin  ! - Github !
 Note:
 - This extension is still in development, please report any bugs or other concerns to the listed e-mail address.
  please send to - oshahar149@gmail.com
-
-https://chrome.google.com/webstore/detail/cimpapocoihheccpjfhghpbhmiggmmgg/publish-accepted?authuser=1&hl=en
-
-
-
-
 
